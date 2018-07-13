@@ -10,4 +10,4 @@ twitter_username: TheBennyRoeShow
 github_username:  thebennyroeshow
 
 show_excerpts: false 
-theme: jekyll-theme-cayman
+theme: minima
