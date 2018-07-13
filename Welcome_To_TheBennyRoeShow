@@ -1,0 +1,14 @@
+title: Welcome To TheBennyRoeShow!
+author: TheBennyRoeShow
+email: TheBennyRoeShow@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  This blog is a chance for me to show a glimpse into the life I live. 
+
+# social links
+twitter_username: TheBennyRoeShow
+@roe_show
+github_username:  thebennyroeshow
+
+show_excerpts: false 
+
+theme: jekyll-theme-cayman
