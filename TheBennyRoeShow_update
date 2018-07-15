@@ -1,0 +1,14 @@
+title: TheBennyRoeShow  
+author: Benjamin Roe
+email: TheBennyRoeShow@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Welcome to TheBennyRoeShow! I look forward to sharing some of the adventures and travels with the world. 
+
+# social links
+twitter_username: TheBennyRoeShow
+@roe_show
+github_username:  thebennyroeshow
+
+show_excerpts: false # set to false to remove excerpts on the homepage
+
+theme: minima
