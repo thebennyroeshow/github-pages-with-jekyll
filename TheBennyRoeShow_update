@@ -9,6 +9,6 @@ twitter_username: TheBennyRoeShow
 @roe_show
 github_username:  thebennyroeshow
 
-show_excerpts: false # set to false to remove excerpts on the homepage
+show_excerpts: true # set to false to remove excerpts on the homepage
 
 theme: minima
